@@ -47,8 +47,8 @@ The top similar users are then selected, and their ratings are used to predict t
 
 ## Contributers 
 If you encounter any problems, do not hesitate to contact. <br>
-@ Egemen Eroglu <br>
-@ Cagatay Tugcu
+[@Egemen Eroglu](https://github.com/erogluegemen) <br>
+[@Cagatay Tugcu]() <br>
 
 ## Acknowledgments
 The recommendation system code was developed using C++ and the collaborative filtering algorithm. We would like to thank the contributors for their efforts in creating this system. <br>
